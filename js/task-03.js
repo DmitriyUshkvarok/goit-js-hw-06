@@ -34,3 +34,4 @@ galleryList.style.padding = '0';
 galleryList.style.margin = '0';
 
 console.log(galleryList);
+

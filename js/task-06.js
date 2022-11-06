@@ -9,3 +9,4 @@ inputValue.addEventListener('blur', event => {
     inputValue.classList.remove('valid');
   }
 });
+
